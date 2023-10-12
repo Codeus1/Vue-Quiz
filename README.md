@@ -27,3 +27,6 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Images of the App
+![Alt home](home.png)
