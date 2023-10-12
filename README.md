@@ -28,5 +28,11 @@ npm run dev
 npm run build
 ```
 
-### Images of the App
+## Images of the App
 ![Alt home](home.png)
+
+![Alt text](search.png)
+
+![Alt text](question-0-math.png)
+
+![Alt text](results.png)
